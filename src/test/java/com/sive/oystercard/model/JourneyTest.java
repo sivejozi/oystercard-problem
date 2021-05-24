@@ -1,4 +1,4 @@
-package com.sive.oystercard_problem.model;
+package com.sive.oystercard.model;
 
 import static org.junit.Assert.assertEquals;
 

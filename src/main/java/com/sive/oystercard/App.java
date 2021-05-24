@@ -1,15 +1,16 @@
-package com.sive.oystercard_problem;
+package com.sive.oystercard;
 
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-import com.sive.oystercard_problem.controller.CardController;
-import com.sive.oystercard_problem.model.Card;
-import com.sive.oystercard_problem.model.Journey;
-import com.sive.oystercard_problem.model.BalanceCalculator;
-import com.sive.oystercard_problem.model.Station;
-import com.sive.oystercard_problem.model.TransportationType;
+import com.sive.oystercard.controller.CardController;
+import com.sive.oystercard.model.BalanceCalculator;
+import com.sive.oystercard.model.Card;
+import com.sive.oystercard.model.Journey;
+import com.sive.oystercard.model.Station;
+import com.sive.oystercard.model.TransportationType;
+
 
 public class App {
 	public static void main(String[] args) {

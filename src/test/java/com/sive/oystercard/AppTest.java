@@ -1,4 +1,4 @@
-package com.sive.oystercard_problem;
+package com.sive.oystercard;
 
 import static org.junit.Assert.assertTrue;
 

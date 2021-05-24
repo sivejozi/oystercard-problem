@@ -1,11 +1,11 @@
-package com.sive.oystercard_problem.controller;
+package com.sive.oystercard.controller;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import com.sive.oystercard_problem.model.Card;
+import com.sive.oystercard.model.Card;
 
 public class CardControllerTest {
 

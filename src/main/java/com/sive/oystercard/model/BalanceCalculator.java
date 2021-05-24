@@ -1,4 +1,4 @@
-package com.sive.oystercard_problem.model;
+package com.sive.oystercard.model;
 
 public class BalanceCalculator {
 

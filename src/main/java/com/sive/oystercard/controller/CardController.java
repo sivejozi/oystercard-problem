@@ -1,6 +1,6 @@
-package com.sive.oystercard_problem.controller;
+package com.sive.oystercard.controller;
 
-import com.sive.oystercard_problem.model.Card;
+import com.sive.oystercard.model.Card;
 
 public class CardController {
 

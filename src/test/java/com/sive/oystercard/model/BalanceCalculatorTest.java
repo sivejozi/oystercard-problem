@@ -1,4 +1,4 @@
-package com.sive.oystercard_problem.model;
+package com.sive.oystercard.model;
 
 
 import static org.junit.Assert.assertEquals;
@@ -9,7 +9,7 @@ import java.util.Set;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.sive.oystercard_problem.controller.CardController;
+import com.sive.oystercard.controller.CardController;
 
 public class BalanceCalculatorTest {
 

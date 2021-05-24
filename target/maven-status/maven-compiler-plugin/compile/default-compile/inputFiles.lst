@@ -1,7 +1,7 @@
-/home/sive/Development/Projects/oysterCardProblem/oystercard-problem/src/main/java/com/sive/oystercard_problem/model/Journey.java
-/home/sive/Development/Projects/oysterCardProblem/oystercard-problem/src/main/java/com/sive/oystercard_problem/controller/CardController.java
-/home/sive/Development/Projects/oysterCardProblem/oystercard-problem/src/main/java/com/sive/oystercard_problem/model/Card.java
-/home/sive/Development/Projects/oysterCardProblem/oystercard-problem/src/main/java/com/sive/oystercard_problem/model/BalanceCalculator.java
-/home/sive/Development/Projects/oysterCardProblem/oystercard-problem/src/main/java/com/sive/oystercard_problem/model/Station.java
-/home/sive/Development/Projects/oysterCardProblem/oystercard-problem/src/main/java/com/sive/oystercard_problem/App.java
-/home/sive/Development/Projects/oysterCardProblem/oystercard-problem/src/main/java/com/sive/oystercard_problem/model/TransportationType.java
+C:\Workspace\oystercard-problem\src\main\java\com\sive\oystercard\controller\CardController.java
+C:\Workspace\oystercard-problem\src\main\java\com\sive\oystercard\model\Journey.java
+C:\Workspace\oystercard-problem\src\main\java\com\sive\oystercard\model\TransportationType.java
+C:\Workspace\oystercard-problem\src\main\java\com\sive\oystercard\App.java
+C:\Workspace\oystercard-problem\src\main\java\com\sive\oystercard\model\BalanceCalculator.java
+C:\Workspace\oystercard-problem\src\main\java\com\sive\oystercard\model\Station.java
+C:\Workspace\oystercard-problem\src\main\java\com\sive\oystercard\model\Card.java
