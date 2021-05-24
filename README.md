@@ -21,21 +21,21 @@ For the purposes of this test use the following data:
 Stations and zones:
 
 ## Station Zone(s) ##
-Holborn 1
-Earl’s Court 1, 2
-Wimbledon 3
-Hammersmith 2
+	1. Holborn 1
+	2. Earl’s Court 1, 2
+	3. Wimbledon 3
+	4. Hammersmith 2
 
 Fares:
 
 ## Journey Fare ##
-Anywhere in Zone 1 £2.50
-Any one zone outside zone 1 £2.00
-Any two zones including zone 1 £3.00
-Any two zones excluding zone 1 £2.25
-Any three zones £3.20
-Any bus journey £1.80
-The maximum possible fare is therefore £3.20.
+	1. Anywhere in Zone 1 £2.50
+	2. Any one zone outside zone 1 £2.00
+	3. Any two zones including zone 1 £3.00
+	4. Any two zones excluding zone 1 £2.25
+	5. Any three zones £3.20
+	6. Any bus journey £1.80
+	7. The maximum possible fare is therefore £3.20.
 
 
 ## To Run ##
@@ -43,7 +43,7 @@ build the project, then get "oystercard-problem-1.0.0-jar-with-dependencies.jar"
 ## java -jar oystercard-problem-1.0.0-jar-with-dependencies.jar ##
 
 ## Output Result ##
-Card has been loaded with 30.0 Pounds
-Balance after Holborn to Earl’s Court 27.5 Pounds
-Balance after 328 bus from Earl’s Court to Chelsea 25.7 Pounds
-Balance after Earl’s court to Hammersmith 23.7 Pounds
+1. Card has been loaded with 30.0 Pounds
+2. Balance after Holborn to Earl’s Court 27.5 Pounds
+3. Balance after 328 bus from Earl’s Court to Chelsea 25.7 Pounds
+4. Balance after Earl’s court to Hammersmith 23.7 Pounds
