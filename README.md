@@ -36,3 +36,14 @@ Any two zones excluding zone 1 £2.25
 Any three zones £3.20
 Any bus journey £1.80
 The maximum possible fare is therefore £3.20.
+
+
+## To Run ##
+build the project, then get "oystercard-problem-1.0.0-jar-with-dependencies.jar", using the following command
+## java -jar oystercard-problem-1.0.0-jar-with-dependencies.jar ##
+
+## Output Result ##
+Card has been loaded with 30.0 Pounds
+Balance after Holborn to Earl’s Court 27.5 Pounds
+Balance after 328 bus from Earl’s Court to Chelsea 25.7 Pounds
+Balance after Earl’s court to Hammersmith 23.7 Pounds
