@@ -1,0 +1,17 @@
+How to Run the Program.
+
+I have made in such a way that no user input from keyboard is required.
+Loading of the 30 Pounds happens in the program, and the starts calculating the balances.
+
+We can either import the project into an ide, eg eclipse. and the run App.java class.
+
+A better way - no ide required, is to run the jar file. with is found in the target folder.
+use the following command to run the jar file
+		
+	java -jar oystercard-problem-1.0.0-jar-with-dependencies.jar
+
+Output Result
+Card has been loaded with 30.0 Pounds
+Balance after Holborn to Earl’s Court 27.5 Pounds
+Balance after 328 bus from Earl’s Court to Chelsea 25.7 Pounds
+Balance after Earl’s court to Hammersmith 23.7 Pounds
